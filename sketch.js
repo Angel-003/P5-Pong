@@ -69,9 +69,9 @@
   //funções
   
   function preload(){
-    trilha = loadSound("trilha.mp3");
-    ponto = loadSound("ponto.mp3");
-    raquetada = loadSound("raquetada.mp3");
+    trilha = loadSound("trilha.mp4");
+    ponto = loadSound("ponto.mp4");
+    raquetada = loadSound("raquetada.mp4");
   }
   
   function createMenuDificuldade(){
